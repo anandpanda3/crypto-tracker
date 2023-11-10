@@ -3,6 +3,7 @@
 
 
 A website to view the top cryptocurrencies, crypto price history with charts, exchanges and crypto news.
+Built with React, 
 
 ![Homepage_Image](https://github.com/rajakrishna/CryptoTracker/blob/main/public/homepage.png)
 
